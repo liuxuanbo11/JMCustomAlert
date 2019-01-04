@@ -25,6 +25,7 @@ s.source       = { :git => "https://github.com/liuxuanbo11/JMCustomAlert.git", :
 
 s.source_files  = "JMCustomAlert/**/*.{h,m}"
 
+s.dependency "Masonry"
 
 
 end
